@@ -1,0 +1,10 @@
+__pycache__/
+db.sqlite3
+
+myenvironment/
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
