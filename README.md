@@ -11,7 +11,8 @@ sudo yum install git -y
 sudo amazon-linux-extras install nginx1
 sudo yum install python-pip
 sudo pip3 install virtualenv
-git clone https://github.com/jnastase/redesigned-funicular.git
+git clone https://github.com/jnastase/fuzzy-potato.git
 
+u: ec2-user
 
 https://github.com/timescale/timescaledb-docker/issues/151
